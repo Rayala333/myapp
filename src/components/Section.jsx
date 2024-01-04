@@ -5,6 +5,7 @@ const Section = () => {
   return (
     <Home>
       <h1>newcode</h1>
+      <h2>newtag</h2>
     </Home>
   )
 }
