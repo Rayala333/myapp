@@ -7,6 +7,7 @@ const Section = () => {
       <h1>newcode</h1>
       <h2>newtag</h2>
       <h3>new tag h3</h3>
+      <h4>newh4</h4>
     </Home>
   )
 }
