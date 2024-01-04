@@ -4,7 +4,7 @@ import Home from './Home';
 const Section = () => {
   return (
     <Home>
-      section newcode
+      <h1>newcode</h1>
     </Home>
   )
 }
