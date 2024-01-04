@@ -14,6 +14,7 @@ const Section = () => {
       <p>ptag</p>
       <img src='' alt='images' />
       <p>p2tag</p>
+      <p>p1tag</p>
     </Home>
   )
 }
