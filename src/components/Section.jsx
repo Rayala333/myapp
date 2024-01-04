@@ -12,6 +12,7 @@ const Section = () => {
       <span>spantag</span>
       <h6>h6tag</h6>
       <p>ptag</p>
+      <p>p1tag</p>
     </Home>
   )
 }
